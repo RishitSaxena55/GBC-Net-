@@ -8,3 +8,4 @@ from torchvision.ops import roi_pool
 from PIL import Image
 import cv2
 import numpy as np
+from torchvision import transforms
